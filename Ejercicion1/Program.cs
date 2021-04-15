@@ -25,7 +25,6 @@ namespace Ejercicion1
                 Console.WriteLine("Nota Fuera de Rango.");
             }
 
-
             Console.ReadKey();
         }
     }
